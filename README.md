@@ -1,1 +1,1 @@
-Michal Olearczyk 
+Michał Olearczyk 
