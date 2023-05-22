@@ -1,1 +1,1 @@
-Michał Olearczyk 3cT
+JavaScript implementation of the Twig PHP templating language.
